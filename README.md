@@ -1,2 +1,3 @@
-# Medical-Data-Visualizer
-En este proyecto, visualizará y realizará cálculos a partir de datos de exámenes médicos utilizando matplotlib, seaborny pandas. Los valores del conjunto de datos se recopilaron durante exámenes médicos.
+# Medical Data Visualizer
+
+This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
